@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\BrandContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\Models\\BrandContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\Controllers\\BrandController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:CrudOperationsInNetCore\\Models\\Brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 1063,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BrandController.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Controllers\\BrandController.cs",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\Controllers\\BrandController.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Controllers\\BrandController.cs",
+              "RelativeToolTip": "CrudOperationsInNetCore\\Controllers\\BrandController.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAIwAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:58:43.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240304115425_initial.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs",
+              "RelativeToolTip": "CrudOperationsInNetCore\\Migrations\\20240304115425_initial.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:54:25.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Program.cs",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\Program.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Program.cs",
+              "RelativeToolTip": "CrudOperationsInNetCore\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAABYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:48:45.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\appsettings.json",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\appsettings.json",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\appsettings.json",
+              "RelativeToolTip": "CrudOperationsInNetCore\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-04T11:46:07.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BrandContext.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\BrandContext.cs",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\Models\\BrandContext.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\BrandContext.cs",
+              "RelativeToolTip": "CrudOperationsInNetCore\\Models\\BrandContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:39:25.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\Brand.cs",
+              "RelativeDocumentMoniker": "CrudOperationsInNetCore\\Models\\Brand.cs",
+              "ToolTip": "D:\\Visual Studio 2022\\source\\repos\\CrudOperationsInNetCore\\CrudOperationsInNetCore\\Models\\Brand.cs",
+              "RelativeToolTip": "CrudOperationsInNetCore\\Models\\Brand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-04T11:33:09.633Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
